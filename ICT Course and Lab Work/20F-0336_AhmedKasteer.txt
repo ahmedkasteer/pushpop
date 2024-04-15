@@ -1,0 +1,113 @@
+<html>
+<body>
+<head>
+<title> Ahmed Kasteer - CV </title>
+<h1> <center> Ahmed Kasteer </center> </h1>
+<h2> <center> <i> (BSCS) Bachelors in Computer Science </i> </center> </h2>
+<h3> <center> <mark> FAST-NU CFD Campus </mark> </center> </h3> 
+<p><b><u>Career Objectives:</u></b><br>
+<center>To secure a position where I can efficiently contribute my skills and abilities</center><br>
+<center>to the growth of the organization and build my professional career.</center>
+</p>
+<a href="https://www.instagram.com/ahdkstr/">
+<img src="C:\Users\ahmed\Desktop\abc.jpeg" width = "515" height = "500">
+</a>
+<head>
+<h1> <mark> Personal Information </mark> </h1>
+</head>
+<pre>
+   <b>Nationality: </b>                               Pakistani
+   
+   
+   <b>Date of Birth:</b>                         29-12-03
+   
+   
+   <b>E-mail: </b>                 ahmedkasteer@gmail.com
+    
+   
+   <b>Address:</b>     474 G-1 Johar Town, Lahore
+   
+   
+   <b>CNIC:</b>                                  33100-3543956-3
+
+</pre>
+<head>
+<h1> <mark> Educational Information </mark> </h1>
+</head>
+<table border="2" cellspacing="15">
+  <tr>
+    <th>Degree</th>
+   <br> <th>Institute</th>
+    <th>Session</th>
+	<th>Marks/CGPA</th>
+    <th>Percentage</th>
+  </tr>
+  <tr>
+    <td>BS (Hons.) Computer Science</td>
+    <td>FAST-NU CFD</td>
+    <td>2020</td>
+	<td>3.78</td>
+	<td>97%</td>
+  </tr>
+  <tr>
+    <td>Alevels</td>
+    <td>LGS - JT Boys</td>
+    <td>2017-2019</td>
+	<td>923/1100</td>
+	<td>84%</td>
+  </tr>
+  <tr>
+    <td>Olevels</td>
+    <td>LGS - JT Boys</td>
+    <td>2014-2016</td>
+	<td>824/900</td>
+	<td>94%</td>
+  </tr>
+</table>
+<head>
+<h1> <mark> Academic Distinctions </mark> </h1>
+</head>
+<ul>
+  <li> First division throughout the academic carrier </li>
+</ul>
+<head>
+<h1> <mark> Language Proficiency </mark> </h1>
+</head>
+<ul>
+  <li> English Native </li>
+  <li> Urdu Native </li>
+</ul>
+<head>
+<h1> <mark> Technical Skills </mark> </h1>
+<h4> LANGUAGES/PROGRAMMING: </h4>
+</head>
+<ol>
+  <li>C++</li>
+  <li>Python</li>
+  <li>Ruby</li>
+  <li>Visual Basic</li>
+  <li>Kotlin</li>
+  <li>Javascript</li>
+  <li>HTML</li>
+</ol>
+<head>
+<h1> <mark> Projects/Work </mark> </h1>
+</head>
+<ul>
+  <li> Traffic Light CAM System </li>
+  <li> Burgular Alarm </li>
+  <li> Motion Detecting System </li>
+  <li> IP Address rerouting website  </li>
+</ul>
+<head>
+<h1> <mark> Strengths </mark> </h1>
+</head>
+<label for="strength">Choose Strength:</label>
+<select name="strength" id="strength">
+  <option value="1">Positive & creative thinker</option>
+  <option value="2">Patient & team player</option>
+  <option value="3">Efficiency & Effectiveness</option>
+  <option value="4">Self-Motivated</option>
+</select>
+</body>
+</html>

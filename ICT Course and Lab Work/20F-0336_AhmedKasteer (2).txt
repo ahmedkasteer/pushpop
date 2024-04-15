@@ -1,0 +1,12 @@
+<html>
+<body>
+<head>
+<title> Ahmed Kasteer - F200336 </title>
+<h1>  <center> Ahmed Kasteer </center> </h1>
+<h2> <center> <i> 20F-0336 </i> </center> </h2>
+<p> Hellenism was the combination of Greek, Persian, and Egyptian cultures. During this
+remarkable time period, people were encouraged to pursue a formal education and
+produce many different kinds of art. New forms of math, science, and design made a
+great impact on society. </p>
+</body>
+</html>
